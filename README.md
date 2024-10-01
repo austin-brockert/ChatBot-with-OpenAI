@@ -2,6 +2,8 @@ This is a Next.js project for buidling the Chat Bot with OpenAI.
 
 It allows all of users can have real-time conversation with Chat Bot on any topics.
 
+It has no appealing User Interface, but it is focusing on functionality.
+
 ## Getting Started
 
 First, run the development server:
